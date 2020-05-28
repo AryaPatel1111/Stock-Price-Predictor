@@ -1,0 +1,4 @@
+This program uses LSTM model of Machine Learning to predict the price of the stocks.
+Thanks to Yahoo Finance for letting me use their API for this project.
+You can use this program upto 10 times maybe(not sure). More frequently you access the api then Yahoo will block the API.
+You need to input the name of the stock in short format provided by Yahoo Finance on their website.
